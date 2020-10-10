@@ -1,0 +1,9 @@
+﻿  C++ Leaderboard.cpp
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(98,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(113,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(128,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(131,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\C++ Leaderboard\C++ Leaderboard.cpp(148,23): warning C4018: '<': signed/unsigned mismatch
+  C++ Leaderboard.vcxproj -> C:\Users\Griffin\Desktop\codesamples\C++ Leaderboard\Debug\C++ Leaderboard.exe
